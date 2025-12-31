@@ -24,7 +24,7 @@ Finished work:
 ## Accuracy
 
 The cross-checking is done by using data from in-the-sky.org which shows the current satellite position map. The distance to satellite 
-measurement is approximately within +/- 150 kms range and the azimuth angle and the angle of elevation is approximately within +/- 2 degrees.
+measurement is approximately within +/- 100 kms range and the azimuth angle and the angle of elevation is approximately within +/- 2 degrees.
 The reason for this is because of the air drag and then the gravitational perturbations which needs to be accounted. It is in the
 future work pipeline.
 
